@@ -1,0 +1,6 @@
+@RepasoParcial_HostAddress = http://localhost:5179
+
+GET {{RepasoParcial_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
